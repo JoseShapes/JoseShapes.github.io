@@ -28,5 +28,7 @@ div{
 
 }
 section article{
-    text-align: center;
+    width: 1100px;
+    margin: 0px auto;
+    position: relative;
 }
