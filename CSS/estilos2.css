@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+#container{
+   
+    width: 1100px;
+    margin: 0px auto;
+    position: relative;
+    z-index: 2;
+   
+    
+}
+
+section article p{
+    color: white;
+
+}
+
+nav ul li{    
+
+    float: left;
+    list-style: none;
+    margin: 10px;
+    
+}
+h4{
+    color: white;
+}
+   
+
+

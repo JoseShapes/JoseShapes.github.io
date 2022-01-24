@@ -1,0 +1,43 @@
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1100px;
+    margin: 0px auto;
+    position: relative;
+}
+
+section article{
+    color: rgb(250, 0, 0);
+}
+nav ul li{
+    margin: 10px;
+    list-style: none;
+    float: left;
+    
+    
+}
+h4{
+    color: white;
+}
+.fondo{
+    width: 1100px;
+    margin: 0px auto;
+    position: relative;
+    
+    
+}
+img{
+    width: 1000px;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+#icono{
+    width: 500px;
+}
