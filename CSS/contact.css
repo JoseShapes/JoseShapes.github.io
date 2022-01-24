@@ -28,5 +28,7 @@ div{
 
 }
 #redes{
-    text-align: center;
+    width: 1100px;
+    margin: 0px auto;
+    position: relative;
 }
