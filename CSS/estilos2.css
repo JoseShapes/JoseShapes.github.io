@@ -28,9 +28,7 @@ nav ul li{
 h4{
     color: white;
 }
-div a img{
-    width: 200px;
-}
+
 #uto{
     width: 600px;
 }
@@ -39,5 +37,8 @@ div img{
     width: 900px;
     height: 900px;
     
+}
+div a img{
+    width: 200px;
 }
 
