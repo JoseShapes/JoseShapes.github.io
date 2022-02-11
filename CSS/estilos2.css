@@ -13,6 +13,12 @@ body{
    
 }
 
+div a img{
+    width: 200px;
+}
+
+
+
 section article p{
     color: white;
 
@@ -33,12 +39,6 @@ h4{
     width: 600px;
 }
 
-div img{
+img{
     width: 900px;
-    height: 900px;
-    
 }
-div a img{
-    width: 200px;
-}
-
